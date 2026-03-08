@@ -27,7 +27,6 @@ Concevoir et administrer une application SaaS de gestion d’école, avec une or
 ## Livrables
 - Docs : voir `/docs`
 - Captures : voir `/assets`
-- Éléments techniques (si applicables) : voir `/src`
 
 ## Compétences mobilisées
 Cadrage, gestion des rôles & accès, coordination, conduite du changement, support/formation, documentation.
